@@ -1,0 +1,7 @@
+{
+  "sounds": {
+    "enabled": true,
+    "done": "mods/imperial-status/sounds/mission-complete.mp3",
+    "blocked": "mods/imperial-status/sounds/orders-required.mp3"
+  }
+}

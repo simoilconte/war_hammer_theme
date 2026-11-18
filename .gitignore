@@ -1,0 +1,13 @@
+/verification/
+/reference/
+# Local migration/audit scripts require private session snapshots; not part of the package.
+/tools/apply-gothic.py
+/tools/apply-alerts-usage.py
+/tools/verify-install.py
+__pycache__/
+*.pyc
+node_modules/
+.DS_Store
+**/gpui-kit.d.ts
+**/herdr.d.ts
+**/jsconfig.json
